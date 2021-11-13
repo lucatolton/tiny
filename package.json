@@ -1,0 +1,14 @@
+{
+    "name": "@lucatolton/tiny",
+    "version": "1.0.0",
+    "description": "Removes all spaces from a string",
+    "license": "MIT",
+    "repository": "lucatolton/tiny",
+    "main": "index.js",
+    "keywords": [
+        "tiny",
+        "minify",
+        "small",
+        "remove-spaces"
+    ]
+}
